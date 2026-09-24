@@ -1,0 +1,26 @@
+id_commande,client,produit,quantite,prix_unitaire,date_commande,pays
+1001,Marie Dubois,Casque audio,2,49.90,2024-01-05,France
+1002,Karim Haddad,Clavier mecanique,1,89.00,2024-01-06,Belgique
+1003,Sofia Rossi,Souris sans fil,3,19.90,2024-01-06,Italie
+1004,Marie Dubois,Casque audio,2,49.90,2024-01-05,France
+1005,,Ecran 24 pouces,1,159.00,2024-01-07,France
+1006,Lucas Bernard,Webcam HD,2,34.50,2024-01-08,France
+1007,Fatima Ziani,Chaise de bureau,1,129.00,2024-01-08,Maroc
+1008,Thomas Muller,Casque audio,1,49.90,2024-01-09,Allemagne
+1009,Elena Popescu,Tapis de souris,4,9.90,2024-01-09,Roumanie
+1010,Karim Haddad,Clavier mecanique,1,89.00,2024-01-06,Belgique
+1011,Julie Laurent,Ecran 24 pouces,2,159.00,2024-01-10,France
+1012,Antoine Petit,Souris sans fil,,19.90,2024-01-11,France
+1013,Sofia Rossi,Webcam HD,1,34.50,2024-01-11,Italie
+1014,Nadia Amrani,Clavier mecanique,2,89.00,2024-01-12,Maroc
+1015,Lucas Bernard,Chaise de bureau,1,129.00,2024-01-12,France
+1016,Elena Popescu,Casque audio,3,49.90,2024-01-13,Roumanie
+1017,Thomas Muller,Tapis de souris,5,9.90,2024-01-13,Allemagne
+1018,Julie Laurent,Webcam HD,1,34.50,2024-01-14,France
+1019,Fatima Ziani,Ecran 24 pouces,1,159.00,2024-01-14,Maroc
+1020,Antoine Petit,Chaise de bureau,2,129.00,2024-01-15,France
+1021,Nadia Amrani,Souris sans fil,2,19.90,2024-01-15,Maroc
+1022,Karim Haddad,Tapis de souris,3,9.90,2024-01-16,Belgique
+1023,,Casque audio,1,49.90,2024-01-16,France
+1024,Sofia Rossi,Clavier mecanique,1,89.00,2024-01-17,Italie
+1025,Marie Dubois,Chaise de bureau,1,129.00,2024-01-17,France
