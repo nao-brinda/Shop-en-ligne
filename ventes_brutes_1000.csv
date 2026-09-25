@@ -1,0 +1,1019 @@
+id_commande,client,produit,quantite,prix_unitaire,date_commande,pays
+1562,Fatima Ziani,Tapis de souris,2,9.9,2024-03-06,Allemagne
+1246,Emma Garnier,Webcam HD,4,34.5,2024-03-18,Allemagne
+1802,Amina Benali,Souris sans fil,2,19.9,2024-03-01,Tunisie
+1787,Thomas Muller,Support ordinateur portable,4,29.9,2024-04-11,Suisse
+1152,Amina Benali,Lampe de bureau,4,24.9,2024-06-18,Roumanie
+1016,Elena Popescu,Disque dur externe 1To,3,69.9,2024-06-28,Belgique
+1125,Emma Garnier,Webcam HD,2,34.5,2024-03-10,Roumanie
+1360,Laura Moreau,Chaise de bureau,2,129.0,2024-06-20,Portugal
+1345,Sofia Rossi,Disque dur externe 1To,1,69.9,2024-06-06,Tunisie
+1417,Mehdi Cherif,Disque dur externe 1To,4,69.9,2024-01-09,Italie
+1214,Nadia Amrani,Lampe de bureau,1,24.9,2024-05-21,Espagne
+1919,Laura Moreau,Cle USB 64Go,2,12.9,2024-02-27,Roumanie
+1532,Omar Saidi,Ecran 24 pouces,5,159.0,2024-05-05,Belgique
+1558,Emma Garnier,Tapis de souris,4,9.9,2024-02-08,Maroc
+1620,Paul Girard,Tapis de souris,1,9.9,2024-03-15,Espagne
+1970,Sofia Rossi,Support ordinateur portable,5,29.9,2024-06-12,Maroc
+1574,,Chaise de bureau,4,129.0,2024-01-12,Tunisie
+1015,Laura Moreau,Chaise de bureau,2,129.0,2024-04-04,Roumanie
+1448,Léa Fontaine,Support ordinateur portable,4,29.9,2024-06-07,France
+1408,Hugo Lefevre,Cle USB 64Go,4,12.9,2024-04-04,Portugal
+1469,Omar Saidi,Support ordinateur portable,1,29.9,2024-02-02,Belgique
+1993,Elena Popescu,Enceinte bluetooth,2,44.9,2024-03-26,Maroc
+1516,Laura Moreau,Tapis de souris,4,9.9,2024-05-11,Roumanie
+1463,Hugo Lefevre,Support ordinateur portable,4,29.9,2024-03-14,Portugal
+1954,Marie Dubois,Disque dur externe 1To,2,69.9,2024-05-03,Suisse
+1969,Yassine Toure,Casque audio,5,49.9,2024-05-20,France
+1443,Laura Moreau,Webcam HD,5,34.5,2024-05-16,Belgique
+1674,Camille Roux,Support ordinateur portable,1,29.9,2024-04-01,France
+1841,Sofia Rossi,Enceinte bluetooth,1,44.9,2024-03-19,Espagne
+1403,Karim Haddad,Chaise de bureau,3,129.0,2024-05-11,Espagne
+1582,Ines Bouzid,Casque audio,1,49.9,2024-06-20,France
+1964,Antoine Petit,Casque audio,5,49.9,2024-02-27,Portugal
+1168,Nicolas Faure,Lampe de bureau,3,24.9,2024-04-18,Portugal
+1643,Omar Saidi,Disque dur externe 1To,3,69.9,2024-02-12,Tunisie
+1022,Chloe Martin,Disque dur externe 1To,4,69.9,2024-02-06,Maroc
+1791,Julie Laurent,Disque dur externe 1To,3,69.9,2024-05-07,Espagne
+2014,Omar Saidi,Enceinte bluetooth,1,44.9,2024-01-03,Roumanie
+1861,Nadia Amrani,Lampe de bureau,3,24.9,2024-04-15,Maroc
+1115,Yassine Toure,Disque dur externe 1To,5,69.9,2024-02-19,Espagne
+1776,Thomas Muller,Disque dur externe 1To,3,69.9,2024-06-29,Tunisie
+1846,,Souris sans fil,1,19.9,2024-01-22,Roumanie
+1505,Léa Fontaine,Webcam HD,3,34.5,2024-03-14,France
+1617,Thomas Muller,Tapis de souris,4,9.9,2024-05-22,Portugal
+1648,Chloe Martin,Enceinte bluetooth,5,44.9,2024-06-25,Portugal
+1653,Camille Roux,Cle USB 64Go,4,12.9,2024-03-22,Belgique
+1322,Elena Popescu,Souris sans fil,3,19.9,2024-03-15,Roumanie
+2017,Sarah Klein,Tapis de souris,3,9.9,2024-05-19,Italie
+1854,Sofia Rossi,Disque dur externe 1To,4,69.9,2024-02-21,Italie
+1712,Lucas Bernard,Tapis de souris,2,9.9,2024-05-02,Belgique
+1363,Paul Girard,Enceinte bluetooth,2,44.9,2024-02-27,Italie
+1630,Fatima Ziani,Webcam HD,3,34.5,2024-06-03,Allemagne
+1579,Antoine Petit,Enceinte bluetooth,4,44.9,2024-04-27,Italie
+1955,Lucas Bernard,Tapis de souris,4,9.9,2024-01-12,Belgique
+1037,Sarah Klein,Clavier mecanique,1,89.0,2024-05-04,Belgique
+2005,Nicolas Faure,Casque audio,4,49.9,2024-05-31,Tunisie
+1082,Paul Girard,Souris sans fil,3,19.9,2024-02-11,Suisse
+1169,Paul Girard,Chaise de bureau,4,129.0,2024-03-10,Maroc
+1465,David Cohen,Chaise de bureau,4,129.0,2024-04-03,France
+1660,Yassine Toure,Tapis de souris,1,9.9,2024-06-29,Allemagne
+1583,Léa Fontaine,Casque audio,4,49.9,2024-02-05,Allemagne
+2003,Camille Roux,Casque audio,1,49.9,2024-02-14,France
+1952,Yassine Toure,Support ordinateur portable,4,29.9,2024-05-25,Suisse
+1325,Ines Bouzid,Lampe de bureau,3,24.9,2024-01-19,Espagne
+1829,Sofia Rossi,Casque audio,3,49.9,2024-01-06,Roumanie
+1066,Chloe Martin,Clavier mecanique,5,89.0,2024-03-04,Tunisie
+1346,Ines Bouzid,Tapis de souris,4,9.9,2024-05-28,Portugal
+1972,Mehdi Cherif,Souris sans fil,3,19.9,2024-04-05,Maroc
+1395,Nicolas Faure,Casque audio,4,49.9,2024-04-30,France
+2012,Laura Moreau,Tapis de souris,4,9.9,2024-05-11,Roumanie
+1506,Léa Fontaine,Clavier mecanique,5,89.0,2024-02-29,Portugal
+1784,Sarah Klein,Support ordinateur portable,3,29.9,2024-01-20,France
+1666,Amina Benali,Enceinte bluetooth,5,44.9,2024-02-14,Maroc
+1988,Chloe Martin,Casque audio,2,49.9,2024-05-26,Allemagne
+1269,David Cohen,Cle USB 64Go,2,12.9,2024-04-16,Belgique
+1342,Laura Moreau,Webcam HD,3,34.5,2024-05-31,France
+1644,Karim Haddad,Support ordinateur portable,4,29.9,2024-03-25,Espagne
+1400,Léa Fontaine,Disque dur externe 1To,4,69.9,2024-06-27,Suisse
+1542,Lucas Bernard,Souris sans fil,5,19.9,2024-04-10,Portugal
+1779,Karim Haddad,Disque dur externe 1To,3,69.9,2024-03-07,Italie
+1801,David Cohen,Casque audio,2,49.9,2024-05-27,Espagne
+1155,Emma Garnier,Souris sans fil,4,19.9,2024-02-15,Portugal
+1974,Marie Dubois,Clavier mecanique,,89.0,2024-02-04,Maroc
+1243,Laura Moreau,Webcam HD,4,34.5,2024-03-06,France
+1633,Paul Girard,Tapis de souris,3,9.9,2024-04-10,Roumanie
+1195,Nadia Amrani,Support ordinateur portable,5,29.9,2024-03-14,Suisse
+1256,Fatima Ziani,Lampe de bureau,3,24.9,2024-05-15,Portugal
+1925,Chloe Martin,Casque audio,2,49.9,2024-02-27,Italie
+1376,Lucas Bernard,Cle USB 64Go,5,12.9,2024-02-01,Maroc
+1121,Léa Fontaine,Enceinte bluetooth,5,44.9,2024-05-09,Espagne
+1141,Sofia Rossi,Enceinte bluetooth,1,44.9,2024-05-18,France
+1614,David Cohen,Tapis de souris,3,9.9,2024-04-02,Belgique
+1932,Antoine Petit,Enceinte bluetooth,2,44.9,2024-02-22,France
+1513,Lucas Bernard,Chaise de bureau,2,129.0,2024-04-27,Maroc
+1763,Elena Popescu,Lampe de bureau,2,24.9,2024-04-17,Suisse
+1291,Nicolas Faure,Cle USB 64Go,3,12.9,2024-04-07,Tunisie
+1613,Sofia Rossi,Webcam HD,2,34.5,2024-04-07,Italie
+1922,Nadia Amrani,Webcam HD,4,34.5,2024-05-13,Tunisie
+2007,Sarah Klein,Tapis de souris,3,9.9,2024-05-19,Italie
+1167,Nadia Amrani,Disque dur externe 1To,5,69.9,2024-04-04,Suisse
+1540,Amina Benali,Tapis de souris,4,9.9,2024-04-06,Espagne
+1035,Mehdi Cherif,Chaise de bureau,4,129.0,2024-01-05,Belgique
+1252,Laura Moreau,Ecran 24 pouces,5,159.0,2024-03-05,Italie
+1013,Karim Haddad,Disque dur externe 1To,2,69.9,2024-03-15,Belgique
+1927,Thomas Muller,Clavier mecanique,3,89.0,2024-06-15,France
+1477,Ines Bouzid,Lampe de bureau,5,24.9,2024-05-05,Tunisie
+1108,Nadia Amrani,Ecran 24 pouces,4,159.0,2024-05-28,Tunisie
+1017,Mehdi Cherif,Disque dur externe 1To,2,69.9,2024-05-16,Allemagne
+1654,Nadia Amrani,Casque audio,1,49.9,2024-01-06,Roumanie
+1723,Omar Saidi,Webcam HD,2,34.5,2024-05-12,Tunisie
+1990,Léa Fontaine,Enceinte bluetooth,1,44.9,2024-01-05,Tunisie
+1526,Yassine Toure,Cle USB 64Go,5,12.9,2024-04-30,Portugal
+2013,David Cohen,Souris sans fil,4,19.9,2024-05-22,Suisse
+1420,Amina Benali,Chaise de bureau,4,129.0,2024-01-20,Tunisie
+1842,Hugo Lefevre,Enceinte bluetooth,3,44.9,2024-01-24,Portugal
+1160,Paul Girard,Casque audio,4,49.9,2024-03-24,Italie
+1410,Mehdi Cherif,Souris sans fil,5,19.9,2024-03-16,Roumanie
+1507,David Cohen,Cle USB 64Go,1,12.9,2024-02-14,Espagne
+1137,Omar Saidi,Casque audio,1,49.9,2024-06-13,Espagne
+1495,Sarah Klein,Disque dur externe 1To,5,69.9,2024-04-07,Espagne
+1721,Antoine Petit,Disque dur externe 1To,1,69.9,2024-03-04,Portugal
+1768,Sarah Klein,Casque audio,4,49.9,2024-06-18,Italie
+1372,Omar Saidi,Support ordinateur portable,4,29.9,2024-04-28,Maroc
+2001,Camille Roux,Enceinte bluetooth,1,44.9,2024-04-19,Allemagne
+1726,Hugo Lefevre,Disque dur externe 1To,5,69.9,2024-01-19,Portugal
+1997,Sofia Rossi,Ecran 24 pouces,1,159.0,2024-04-28,Belgique
+1235,Julie Laurent,Cle USB 64Go,1,12.9,2024-04-21,Belgique
+1156,Laura Moreau,Webcam HD,5,34.5,2024-05-17,Suisse
+1310,Marie Dubois,Souris sans fil,2,19.9,2024-05-24,Espagne
+1191,Emma Garnier,Webcam HD,4,34.5,2024-01-19,Allemagne
+1187,Laura Moreau,Ecran 24 pouces,3,159.0,2024-06-18,Belgique
+1430,Amina Benali,Lampe de bureau,2,24.9,2024-02-01,Allemagne
+1535,,Enceinte bluetooth,3,44.9,2024-01-06,Espagne
+1501,Karim Haddad,Disque dur externe 1To,5,69.9,2024-02-27,Allemagne
+1627,Elena Popescu,Enceinte bluetooth,1,44.9,2024-02-04,Maroc
+1823,Camille Roux,Casque audio,3,49.9,2024-02-23,Allemagne
+1228,,Lampe de bureau,5,24.9,2024-03-25,Belgique
+1054,Yassine Toure,Souris sans fil,3,19.9,2024-04-28,Allemagne
+1378,Fatima Ziani,Tapis de souris,1,9.9,2024-02-26,Suisse
+1940,Paul Girard,Ecran 24 pouces,1,159.0,2024-01-04,Belgique
+1519,Chloe Martin,Ecran 24 pouces,4,159.0,2024-03-09,Roumanie
+1588,Marie Dubois,Casque audio,5,49.9,2024-03-11,Portugal
+1546,Fatima Ziani,Webcam HD,2,34.5,2024-01-29,France
+1249,Marie Dubois,Disque dur externe 1To,4,69.9,2024-03-11,France
+1237,Emma Garnier,Webcam HD,1,34.5,2024-01-12,Roumanie
+1831,Chloe Martin,Souris sans fil,1,19.9,2024-05-20,Belgique
+1673,,Webcam HD,2,34.5,2024-02-17,Roumanie
+1733,Sofia Rossi,Disque dur externe 1To,5,69.9,2024-05-17,Tunisie
+1129,Camille Roux,Tapis de souris,1,9.9,2024-02-22,Espagne
+1866,Karim Haddad,Cle USB 64Go,4,12.9,2024-03-09,Roumanie
+1171,Lucas Bernard,Cle USB 64Go,5,12.9,2024-06-25,Italie
+1651,Amina Benali,Webcam HD,3,34.5,2024-04-26,Allemagne
+1747,Antoine Petit,Clavier mecanique,5,89.0,2024-06-21,Belgique
+1316,Antoine Petit,Enceinte bluetooth,4,44.9,2024-05-04,Tunisie
+1938,Amina Benali,Cle USB 64Go,4,12.9,2024-03-16,Italie
+1317,Camille Roux,Tapis de souris,3,9.9,2024-02-25,Portugal
+1586,Laura Moreau,Disque dur externe 1To,5,69.9,2024-05-03,Suisse
+1255,Nadia Amrani,Chaise de bureau,4,129.0,2024-02-14,Allemagne
+1102,Sofia Rossi,Disque dur externe 1To,3,69.9,2024-06-08,Roumanie
+1715,Léa Fontaine,Souris sans fil,2,19.9,2024-01-18,Portugal
+1422,Laura Moreau,Webcam HD,2,34.5,2024-01-30,France
+1502,Karim Haddad,Clavier mecanique,4,89.0,2024-03-25,Suisse
+1126,Paul Girard,Lampe de bureau,1,24.9,2024-02-05,Italie
+1638,Julie Laurent,Webcam HD,2,34.5,2024-04-18,Espagne
+1251,Nadia Amrani,Ecran 24 pouces,5,159.0,2024-03-31,Allemagne
+1461,Chloe Martin,Lampe de bureau,4,24.9,2024-03-02,Allemagne
+1201,Sarah Klein,Casque audio,2,49.9,2024-04-30,Portugal
+1910,Paul Girard,Tapis de souris,5,9.9,2024-04-27,Italie
+1096,Paul Girard,Casque audio,1,49.9,2024-03-07,Italie
+1232,Emma Garnier,Tapis de souris,1,9.9,2024-03-25,Portugal
+1592,Amina Benali,Webcam HD,4,34.5,2024-01-21,Roumanie
+1139,Chloe Martin,Chaise de bureau,2,129.0,2024-04-26,Roumanie
+1002,Julie Laurent,Souris sans fil,1,19.9,2024-06-22,Portugal
+1344,Camille Roux,Casque audio,1,49.9,2024-04-04,Maroc
+1978,David Cohen,Souris sans fil,4,19.9,2024-05-12,Espagne
+1538,Nicolas Faure,Casque audio,1,49.9,2024-04-30,France
+1845,Camille Roux,Webcam HD,2,34.5,2024-03-09,Tunisie
+1509,David Cohen,Webcam HD,1,34.5,2024-01-03,Maroc
+1031,Yassine Toure,Souris sans fil,4,19.9,2024-01-01,Maroc
+1028,Chloe Martin,Support ordinateur portable,4,29.9,2024-05-15,Maroc
+1040,Yassine Toure,Ecran 24 pouces,5,159.0,2024-06-25,Allemagne
+1350,Ines Bouzid,Disque dur externe 1To,,69.9,2024-01-11,Allemagne
+1887,Antoine Petit,Support ordinateur portable,3,29.9,2024-06-13,Maroc
+1545,Chloe Martin,Ecran 24 pouces,2,159.0,2024-04-27,Roumanie
+1359,Emma Garnier,Clavier mecanique,3,89.0,2024-05-23,Espagne
+1222,Omar Saidi,Enceinte bluetooth,2,44.9,2024-04-24,Portugal
+1931,Yassine Toure,Enceinte bluetooth,4,44.9,2024-02-01,Portugal
+1213,Lucas Bernard,Casque audio,5,49.9,2024-03-02,Italie
+1062,Sarah Klein,Cle USB 64Go,5,12.9,2024-01-16,Roumanie
+1490,Nicolas Faure,Chaise de bureau,5,129.0,2024-03-31,Maroc
+1740,Emma Garnier,Souris sans fil,1,19.9,2024-02-11,Suisse
+1752,Julie Laurent,Tapis de souris,3,9.9,2024-03-10,Belgique
+1128,Sofia Rossi,Tapis de souris,4,9.9,2024-03-25,Portugal
+1947,Paul Girard,Chaise de bureau,4,129.0,2024-06-08,Maroc
+1963,Léa Fontaine,Enceinte bluetooth,3,44.9,2024-03-02,Roumanie
+1813,Paul Girard,Webcam HD,3,34.5,2024-02-04,Italie
+1276,Paul Girard,Ecran 24 pouces,2,159.0,2024-05-24,Allemagne
+1711,Omar Saidi,Enceinte bluetooth,1,44.9,2024-01-03,Roumanie
+1601,Omar Saidi,Casque audio,2,49.9,2024-03-21,France
+1452,Yassine Toure,Enceinte bluetooth,4,44.9,2024-02-22,Roumanie
+1905,Paul Girard,Chaise de bureau,3,129.0,2024-05-29,Maroc
+1412,Nadia Amrani,Enceinte bluetooth,5,44.9,2024-04-19,Italie
+1528,Sofia Rossi,Lampe de bureau,4,24.9,2024-05-15,Roumanie
+1318,Lucas Bernard,Chaise de bureau,4,129.0,2024-01-29,Maroc
+1413,Emma Garnier,Enceinte bluetooth,3,44.9,2024-04-24,France
+1442,Elena Popescu,Disque dur externe 1To,5,69.9,2024-03-11,Italie
+1479,Omar Saidi,Clavier mecanique,4,89.0,2024-05-29,Maroc
+1949,Lucas Bernard,Tapis de souris,4,9.9,2024-04-26,Maroc
+1647,Emma Garnier,Support ordinateur portable,2,29.9,2024-04-24,Roumanie
+1280,Thomas Muller,Clavier mecanique,1,89.0,2024-02-03,France
+1024,David Cohen,Support ordinateur portable,4,29.9,2024-05-29,Espagne
+1934,Antoine Petit,Support ordinateur portable,5,29.9,2024-06-28,Italie
+1979,Thomas Muller,Tapis de souris,4,9.9,2024-05-22,Portugal
+1453,Mehdi Cherif,Souris sans fil,3,19.9,2024-03-22,Roumanie
+1319,Omar Saidi,Disque dur externe 1To,5,69.9,2024-05-04,Portugal
+1468,,Enceinte bluetooth,5,44.9,2024-03-12,Tunisie
+1458,Julie Laurent,Souris sans fil,3,19.9,2024-05-27,Roumanie
+1875,Elena Popescu,Ecran 24 pouces,1,159.0,2024-03-04,France
+1440,Nadia Amrani,Souris sans fil,2,19.9,2024-03-23,Allemagne
+1819,Karim Haddad,Souris sans fil,5,19.9,2024-03-22,Tunisie
+1775,Nadia Amrani,Enceinte bluetooth,3,44.9,2024-01-31,Belgique
+1880,Sarah Klein,Lampe de bureau,3,24.9,2024-03-29,Italie
+1059,Chloe Martin,Webcam HD,4,34.5,2024-03-14,Espagne
+1406,Antoine Petit,Clavier mecanique,3,89.0,2024-04-21,Espagne
+1330,Camille Roux,Cle USB 64Go,3,12.9,2024-01-23,Espagne
+1057,Thomas Muller,Tapis de souris,4,9.9,2024-05-03,Allemagne
+1623,Antoine Petit,Webcam HD,3,34.5,2024-05-06,Italie
+1163,Ines Bouzid,Ecran 24 pouces,1,159.0,2024-03-02,Espagne
+1098,Yassine Toure,Chaise de bureau,3,129.0,2024-04-21,Tunisie
+1343,Amina Benali,Lampe de bureau,1,24.9,2024-03-20,Suisse
+1944,Camille Roux,Casque audio,1,49.9,2024-02-14,France
+1305,Amina Benali,Lampe de bureau,3,24.9,2024-01-30,Maroc
+1821,Fatima Ziani,Chaise de bureau,1,129.0,2024-03-01,Roumanie
+1278,Julie Laurent,Chaise de bureau,2,129.0,2024-06-01,France
+1419,Sarah Klein,Casque audio,5,49.9,2024-02-09,Suisse
+1915,Mehdi Cherif,Tapis de souris,4,9.9,2024-04-13,Espagne
+1606,Ines Bouzid,Cle USB 64Go,3,12.9,2024-01-14,Belgique
+1239,Fatima Ziani,Ecran 24 pouces,5,159.0,2024-04-15,Tunisie
+1510,Sarah Klein,Support ordinateur portable,1,29.9,2024-03-26,Maroc
+1748,Julie Laurent,Cle USB 64Go,5,12.9,2024-01-01,France
+1679,Karim Haddad,Webcam HD,2,34.5,2024-05-17,Maroc
+1714,Paul Girard,Chaise de bureau,3,129.0,2024-02-05,Espagne
+1455,Lucas Bernard,Chaise de bureau,2,129.0,2024-04-29,Belgique
+1063,Karim Haddad,Casque audio,5,49.9,2024-05-02,Portugal
+1929,Karim Haddad,Support ordinateur portable,1,29.9,2024-06-18,Belgique
+1124,Laura Moreau,Ecran 24 pouces,3,159.0,2024-04-22,Belgique
+1709,Emma Garnier,Clavier mecanique,1,89.0,2024-02-24,Suisse
+1902,Lucas Bernard,Enceinte bluetooth,2,44.9,2024-03-07,Portugal
+1328,Chloe Martin,Cle USB 64Go,4,12.9,2024-03-15,Belgique
+1434,Chloe Martin,Cle USB 64Go,4,12.9,2024-05-14,Espagne
+1840,Lucas Bernard,Casque audio,2,49.9,2024-02-13,Maroc
+1717,Camille Roux,Chaise de bureau,2,129.0,2024-06-09,Italie
+1341,Fatima Ziani,Enceinte bluetooth,1,44.9,2024-04-30,Suisse
+1264,Mehdi Cherif,Ecran 24 pouces,1,159.0,2024-06-11,Suisse
+1512,Fatima Ziani,Lampe de bureau,4,24.9,2024-03-10,Allemagne
+1409,Antoine Petit,Clavier mecanique,4,89.0,2024-01-21,Espagne
+1973,David Cohen,Casque audio,3,49.9,2024-06-02,Maroc
+1060,Emma Garnier,Cle USB 64Go,5,12.9,2024-06-18,Suisse
+1175,Nadia Amrani,Casque audio,5,49.9,2024-02-02,Maroc
+1151,Omar Saidi,Support ordinateur portable,1,29.9,2024-05-24,France
+2000,Sofia Rossi,Clavier mecanique,1,89.0,2024-01-24,Espagne
+1704,Camille Roux,Enceinte bluetooth,1,44.9,2024-04-19,Allemagne
+1568,Marie Dubois,Ecran 24 pouces,2,159.0,2024-01-31,Suisse
+1260,Sofia Rossi,Tapis de souris,1,9.9,2024-03-08,Portugal
+1975,David Cohen,Casque audio,1,49.9,2024-04-08,Suisse
+1807,Karim Haddad,Ecran 24 pouces,5,159.0,2024-02-26,France
+1385,Marie Dubois,Clavier mecanique,1,89.0,2024-03-06,Allemagne
+1926,Elena Popescu,Cle USB 64Go,1,12.9,2024-05-30,Portugal
+1207,Camille Roux,Clavier mecanique,3,89.0,2024-03-05,Roumanie
+1911,Paul Girard,Cle USB 64Go,2,12.9,2024-01-21,Suisse
+1737,David Cohen,Ecran 24 pouces,1,159.0,2024-03-03,Belgique
+1116,Hugo Lefevre,Tapis de souris,2,9.9,2024-02-07,France
+1347,David Cohen,Casque audio,4,49.9,2024-05-26,Allemagne
+1906,Camille Roux,Clavier mecanique,4,89.0,2024-01-14,Tunisie
+1608,Léa Fontaine,Support ordinateur portable,5,29.9,2024-04-11,Roumanie
+1392,Mehdi Cherif,Chaise de bureau,2,129.0,2024-05-26,Espagne
+1511,Camille Roux,Disque dur externe 1To,5,69.9,2024-05-14,Suisse
+1508,Thomas Muller,Casque audio,4,49.9,2024-05-06,Italie
+1796,Amina Benali,Support ordinateur portable,5,29.9,2024-03-23,Espagne
+1472,Chloe Martin,Lampe de bureau,1,24.9,2024-01-12,France
+1838,Fatima Ziani,Casque audio,3,49.9,2024-01-01,Espagne
+1659,David Cohen,Support ordinateur portable,2,29.9,2024-04-25,Tunisie
+1672,Emma Garnier,Disque dur externe 1To,2,69.9,2024-05-22,Italie
+1181,Laura Moreau,Disque dur externe 1To,1,69.9,2024-02-08,Italie
+1989,Elena Popescu,Souris sans fil,3,19.9,2024-03-15,Roumanie
+1855,Mehdi Cherif,Webcam HD,3,34.5,2024-01-18,Belgique
+1615,,Casque audio,3,49.9,2024-04-23,Roumanie
+1081,Laura Moreau,Tapis de souris,3,9.9,2024-01-12,France
+1695,Laura Moreau,Tapis de souris,4,9.9,2024-04-25,Belgique
+1903,Léa Fontaine,Souris sans fil,3,19.9,2024-06-16,Belgique
+1185,Nadia Amrani,Support ordinateur portable,4,29.9,2024-03-19,Tunisie
+1019,Julie Laurent,Disque dur externe 1To,3,69.9,2024-01-15,Allemagne
+1087,Amina Benali,Ecran 24 pouces,2,159.0,2024-06-19,Belgique
+1119,Julie Laurent,Clavier mecanique,4,89.0,2024-02-04,Suisse
+1577,Fatima Ziani,Ecran 24 pouces,3,159.0,2024-02-28,Espagne
+1610,Julie Laurent,Chaise de bureau,5,129.0,2024-04-06,Espagne
+1754,Thomas Muller,Ecran 24 pouces,5,159.0,2024-01-12,Espagne
+1100,,Casque audio,4,49.9,2024-01-01,Portugal
+1730,Sofia Rossi,Casque audio,3,49.9,2024-02-25,France
+1266,Karim Haddad,Casque audio,3,49.9,2024-05-06,Belgique
+1493,Emma Garnier,Ecran 24 pouces,4,159.0,2024-03-22,Suisse
+1706,Sofia Rossi,Disque dur externe 1To,3,69.9,2024-03-05,Belgique
+1578,Sarah Klein,Ecran 24 pouces,4,159.0,2024-05-20,Roumanie
+1254,Karim Haddad,Support ordinateur portable,3,29.9,2024-02-03,Belgique
+1839,Sofia Rossi,Webcam HD,5,34.5,2024-05-02,Allemagne
+1030,Léa Fontaine,Webcam HD,3,34.5,2024-01-29,Maroc
+1459,Elena Popescu,Souris sans fil,4,19.9,2024-05-11,Suisse
+1147,Mehdi Cherif,Cle USB 64Go,1,12.9,2024-02-11,Maroc
+1573,Camille Roux,Clavier mecanique,4,89.0,2024-03-22,Allemagne
+1884,Antoine Petit,Disque dur externe 1To,4,69.9,2024-05-11,France
+1197,Antoine Petit,Lampe de bureau,5,24.9,2024-05-06,Suisse
+1436,Paul Girard,Disque dur externe 1To,1,69.9,2024-04-25,Suisse
+1312,Elena Popescu,Tapis de souris,4,9.9,2024-04-26,Roumanie
+1877,Antoine Petit,Chaise de bureau,4,129.0,2024-05-09,Espagne
+1788,Marie Dubois,Tapis de souris,4,9.9,2024-02-14,Roumanie
+1114,Julie Laurent,Enceinte bluetooth,5,44.9,2024-01-19,Suisse
+1135,David Cohen,Souris sans fil,4,19.9,2024-02-02,Tunisie
+1033,Laura Moreau,Lampe de bureau,5,24.9,2024-02-20,Italie
+1046,Karim Haddad,Chaise de bureau,1,129.0,2024-05-11,Allemagne
+1223,Hugo Lefevre,Chaise de bureau,3,129.0,2024-05-21,Portugal
+1437,Omar Saidi,Lampe de bureau,3,24.9,2024-02-02,Portugal
+1482,David Cohen,Casque audio,5,49.9,2024-05-02,Italie
+2010,Ines Bouzid,Souris sans fil,4,19.9,2024-01-20,Tunisie
+1914,Sarah Klein,Souris sans fil,4,19.9,2024-01-23,Italie
+1432,Nicolas Faure,Support ordinateur portable,3,29.9,2024-04-29,Portugal
+1200,Omar Saidi,Support ordinateur portable,5,29.9,2024-01-06,Maroc
+1335,Léa Fontaine,Chaise de bureau,3,129.0,2024-06-14,Italie
+1027,Omar Saidi,Tapis de souris,5,9.9,2024-01-17,Espagne
+1438,Laura Moreau,Support ordinateur portable,2,29.9,2024-02-03,Espagne
+1282,Thomas Muller,Webcam HD,1,34.5,2024-02-02,Espagne
+1174,Elena Popescu,Webcam HD,2,34.5,2024-04-02,Italie
+1206,Nadia Amrani,Disque dur externe 1To,4,69.9,2024-05-20,France
+1261,Lucas Bernard,Enceinte bluetooth,3,44.9,2024-06-21,Maroc
+1996,Nadia Amrani,Disque dur externe 1To,4,69.9,2024-05-20,France
+1052,Karim Haddad,Tapis de souris,3,9.9,2024-01-28,Allemagne
+1083,Nicolas Faure,Cle USB 64Go,4,12.9,2024-05-23,France
+1549,Camille Roux,Support ordinateur portable,1,29.9,2024-03-03,France
+1411,Lucas Bernard,Clavier mecanique,3,89.0,2024-06-18,Maroc
+1736,Chloe Martin,Support ordinateur portable,1,29.9,2024-03-20,Espagne
+2009,Léa Fontaine,Tapis de souris,4,9.9,2024-06-28,Espagne
+1071,Léa Fontaine,Clavier mecanique,1,89.0,2024-04-27,Tunisie
+1356,David Cohen,Disque dur externe 1To,5,69.9,2024-02-08,Roumanie
+1177,Laura Moreau,Enceinte bluetooth,1,44.9,2024-01-04,Tunisie
+1382,Emma Garnier,Disque dur externe 1To,3,69.9,2024-02-07,Italie
+1777,Karim Haddad,Ecran 24 pouces,3,159.0,2024-02-07,Belgique
+1365,Léa Fontaine,Lampe de bureau,5,24.9,2024-01-10,Roumanie
+1782,Lucas Bernard,Casque audio,1,49.9,2024-02-26,Italie
+1285,Camille Roux,Lampe de bureau,2,24.9,2024-06-06,France
+1287,Laura Moreau,Casque audio,1,49.9,2024-05-02,Espagne
+1724,Ines Bouzid,Ecran 24 pouces,4,159.0,2024-03-16,France
+1092,Hugo Lefevre,Ecran 24 pouces,2,159.0,2024-04-27,Roumanie
+1248,Sarah Klein,Chaise de bureau,5,129.0,2024-03-16,Maroc
+2002,Karim Haddad,Disque dur externe 1To,3,69.9,2024-01-17,Roumanie
+1283,Ines Bouzid,Clavier mecanique,1,89.0,2024-05-01,Suisse
+1898,David Cohen,Casque audio,5,49.9,2024-05-26,Allemagne
+1968,David Cohen,Disque dur externe 1To,1,69.9,2024-01-27,Espagne
+1204,Amina Benali,Tapis de souris,3,9.9,2024-03-23,Belgique
+1349,Karim Haddad,Enceinte bluetooth,1,44.9,2024-03-28,Belgique
+1142,Amina Benali,Ecran 24 pouces,1,159.0,2024-06-15,France
+1655,Laura Moreau,Clavier mecanique,2,89.0,2024-03-03,Portugal
+1188,Thomas Muller,Ecran 24 pouces,2,159.0,2024-05-21,Belgique
+1817,Nadia Amrani,Cle USB 64Go,3,12.9,2024-02-02,Italie
+1533,Ines Bouzid,Enceinte bluetooth,1,44.9,2024-04-26,Italie
+1275,Omar Saidi,Ecran 24 pouces,5,159.0,2024-01-06,France
+1896,Omar Saidi,Chaise de bureau,2,129.0,2024-01-07,Suisse
+1130,Chloe Martin,Support ordinateur portable,1,29.9,2024-05-27,Espagne
+1300,Karim Haddad,Support ordinateur portable,5,29.9,2024-05-23,Roumanie
+1334,Laura Moreau,Clavier mecanique,5,89.0,2024-05-10,Allemagne
+1790,Fatima Ziani,Casque audio,5,49.9,2024-06-07,Tunisie
+1607,Yassine Toure,Ecran 24 pouces,1,159.0,2024-03-28,Tunisie
+1992,Omar Saidi,Chaise de bureau,5,129.0,2024-05-13,Tunisie
+2011,Nicolas Faure,Tapis de souris,5,9.9,2024-06-01,Tunisie
+1389,Camille Roux,Clavier mecanique,1,89.0,2024-05-07,Tunisie
+1624,Sofia Rossi,Souris sans fil,4,19.9,2024-03-11,Espagne
+1697,Emma Garnier,Chaise de bureau,4,129.0,2024-05-04,Roumanie
+1701,Paul Girard,Lampe de bureau,5,24.9,2024-02-03,Tunisie
+1336,Julie Laurent,Clavier mecanique,2,89.0,2024-03-06,Allemagne
+1193,Yassine Toure,Clavier mecanique,5,89.0,2024-02-27,Italie
+1951,Lucas Bernard,Souris sans fil,1,19.9,2024-02-10,Belgique
+1609,Marie Dubois,Disque dur externe 1To,3,69.9,2024-04-25,Suisse
+1431,Fatima Ziani,Ecran 24 pouces,4,159.0,2024-01-07,Roumanie
+1960,Omar Saidi,Disque dur externe 1To,4,69.9,2024-02-08,Portugal
+1296,David Cohen,Clavier mecanique,3,89.0,2024-04-19,Roumanie
+1004,Sofia Rossi,Ecran 24 pouces,2,159.0,2024-05-09,Tunisie
+1381,Amina Benali,Ecran 24 pouces,1,159.0,2024-03-22,Belgique
+1364,,Clavier mecanique,3,89.0,2024-01-26,Portugal
+1003,,Support ordinateur portable,4,29.9,2024-01-09,France
+1097,Sarah Klein,Webcam HD,1,34.5,2024-01-28,Tunisie
+1667,Mehdi Cherif,Support ordinateur portable,1,29.9,2024-06-21,Italie
+1210,Amina Benali,Support ordinateur portable,4,29.9,2024-06-09,Suisse
+1279,Antoine Petit,Souris sans fil,2,19.9,2024-05-18,Maroc
+1497,Emma Garnier,Clavier mecanique,3,89.0,2024-04-23,Maroc
+1488,Ines Bouzid,Ecran 24 pouces,5,159.0,2024-03-24,Suisse
+1707,Amina Benali,Disque dur externe 1To,2,69.9,2024-01-14,Espagne
+1120,Omar Saidi,Lampe de bureau,5,24.9,2024-06-01,Roumanie
+1470,Chloe Martin,Chaise de bureau,3,129.0,2024-05-22,Roumanie
+1591,Julie Laurent,Ecran 24 pouces,5,159.0,2024-05-14,Maroc
+1541,Sofia Rossi,Disque dur externe 1To,5,69.9,2024-02-04,Roumanie
+1675,Hugo Lefevre,Souris sans fil,,19.9,2024-04-08,Portugal
+1883,Julie Laurent,Disque dur externe 1To,2,69.9,2024-06-22,Allemagne
+1051,Yassine Toure,Enceinte bluetooth,1,44.9,2024-06-21,Belgique
+1950,Chloe Martin,Cle USB 64Go,4,12.9,2024-04-17,Italie
+1357,Sofia Rossi,Support ordinateur portable,2,29.9,2024-03-30,Maroc
+1390,Nicolas Faure,Casque audio,5,49.9,2024-05-27,Allemagne
+1380,Ines Bouzid,Chaise de bureau,2,129.0,2024-04-08,Belgique
+1912,,Disque dur externe 1To,2,69.9,2024-03-21,France
+1830,Antoine Petit,Clavier mecanique,1,89.0,2024-03-28,Italie
+1196,Lucas Bernard,Enceinte bluetooth,3,44.9,2024-06-28,Espagne
+1394,Sofia Rossi,Lampe de bureau,5,24.9,2024-05-09,Portugal
+1729,Léa Fontaine,Enceinte bluetooth,1,44.9,2024-01-05,Tunisie
+1429,Nadia Amrani,Webcam HD,2,34.5,2024-06-28,Italie
+1456,Antoine Petit,Enceinte bluetooth,2,44.9,2024-02-06,Belgique
+1220,Antoine Petit,Tapis de souris,3,9.9,2024-05-09,Maroc
+1272,Julie Laurent,Chaise de bureau,1,129.0,2024-06-24,Roumanie
+1853,Elena Popescu,Ecran 24 pouces,2,159.0,2024-01-11,Espagne
+1517,Sofia Rossi,Tapis de souris,1,9.9,2024-02-17,Italie
+1190,Hugo Lefevre,Webcam HD,1,34.5,2024-02-29,Maroc
+1917,Elena Popescu,Cle USB 64Go,3,12.9,2024-01-04,Roumanie
+1731,Karim Haddad,Tapis de souris,5,9.9,2024-03-14,Portugal
+1221,Marie Dubois,Webcam HD,3,34.5,2024-05-30,Tunisie
+1333,Julie Laurent,Chaise de bureau,2,129.0,2024-01-20,Portugal
+1348,Paul Girard,Support ordinateur portable,4,29.9,2024-05-08,Italie
+1945,Nadia Amrani,Chaise de bureau,3,129.0,2024-04-19,Belgique
+1001,Laura Moreau,Clavier mecanique,1,89.0,2024-03-11,Allemagne
+1756,Sofia Rossi,Lampe de bureau,4,24.9,2024-01-03,Roumanie
+1277,Sofia Rossi,Lampe de bureau,2,24.9,2024-05-30,Allemagne
+1921,Sarah Klein,Webcam HD,2,34.5,2024-01-17,France
+1067,Mehdi Cherif,Casque audio,5,49.9,2024-01-21,Espagne
+1467,Amina Benali,Lampe de bureau,3,24.9,2024-01-19,Espagne
+1480,David Cohen,Cle USB 64Go,1,12.9,2024-06-01,Suisse
+1872,Léa Fontaine,Lampe de bureau,3,24.9,2024-01-15,Portugal
+1061,Fatima Ziani,Ecran 24 pouces,3,159.0,2024-02-25,France
+1856,Chloe Martin,Lampe de bureau,4,24.9,2024-05-21,Roumanie
+1814,David Cohen,Tapis de souris,4,9.9,2024-06-15,Roumanie
+1273,Nicolas Faure,Disque dur externe 1To,3,69.9,2024-01-16,Espagne
+1920,Nadia Amrani,Souris sans fil,1,19.9,2024-04-08,Portugal
+1619,Amina Benali,Lampe de bureau,1,24.9,2024-06-01,Tunisie
+1475,Paul Girard,Support ordinateur portable,3,29.9,2024-02-11,Espagne
+1315,Léa Fontaine,Support ordinateur portable,1,29.9,2024-06-21,Belgique
+1956,Antoine Petit,Disque dur externe 1To,3,69.9,2024-01-04,Portugal
+1091,Antoine Petit,Souris sans fil,1,19.9,2024-04-07,France
+1050,Lucas Bernard,Disque dur externe 1To,4,69.9,2024-03-31,Espagne
+1483,Ines Bouzid,Disque dur externe 1To,5,69.9,2024-04-07,Italie
+1908,Ines Bouzid,Clavier mecanique,4,89.0,2024-05-15,Maroc
+1424,Nicolas Faure,Clavier mecanique,3,89.0,2024-03-07,Suisse
+1215,Sofia Rossi,Ecran 24 pouces,1,159.0,2024-04-28,Belgique
+1351,Emma Garnier,Enceinte bluetooth,4,44.9,2024-05-14,Portugal
+1799,Ines Bouzid,Chaise de bureau,5,129.0,2024-02-29,Italie
+1441,Amina Benali,Lampe de bureau,3,24.9,2024-01-21,Maroc
+1268,Camille Roux,Chaise de bureau,5,129.0,2024-04-17,Tunisie
+1104,Omar Saidi,Tapis de souris,3,9.9,2024-04-13,Maroc
+1009,Chloe Martin,Clavier mecanique,3,89.0,2024-03-29,Tunisie
+1682,Léa Fontaine,Lampe de bureau,3,24.9,2024-05-18,France
+1794,Julie Laurent,Disque dur externe 1To,5,69.9,2024-01-05,Espagne
+1986,Lucas Bernard,Souris sans fil,1,19.9,2024-05-30,Espagne
+1194,Antoine Petit,Souris sans fil,1,19.9,2024-01-16,Italie
+1835,Elena Popescu,Tapis de souris,5,9.9,2024-05-18,Maroc
+1036,Amina Benali,Webcam HD,2,34.5,2024-01-15,Allemagne
+1719,Lucas Bernard,Souris sans fil,1,19.9,2024-05-30,Espagne
+1716,Sarah Klein,Casque audio,5,49.9,2024-06-15,Italie
+1233,Chloe Martin,Chaise de bureau,4,129.0,2024-05-18,France
+1176,Karim Haddad,Casque audio,5,49.9,2024-03-15,Italie
+1352,Mehdi Cherif,Souris sans fil,3,19.9,2024-04-05,Maroc
+1750,Chloe Martin,Souris sans fil,2,19.9,2024-01-10,Portugal
+1504,Thomas Muller,Tapis de souris,4,9.9,2024-05-02,Allemagne
+1136,Nicolas Faure,Casque audio,4,49.9,2024-05-31,Tunisie
+1930,Laura Moreau,Casque audio,1,49.9,2024-06-25,Belgique
+1338,Thomas Muller,Disque dur externe 1To,4,69.9,2024-04-28,Tunisie
+1320,Omar Saidi,Webcam HD,1,34.5,2024-02-26,Espagne
+1094,Chloe Martin,Chaise de bureau,3,129.0,2024-01-18,Maroc
+1393,Thomas Muller,Disque dur externe 1To,1,69.9,2024-05-14,Roumanie
+1489,Ines Bouzid,Tapis de souris,3,9.9,2024-02-14,Suisse
+1299,Lucas Bernard,Cle USB 64Go,,12.9,2024-02-03,Portugal
+1671,,Souris sans fil,4,19.9,2024-06-11,Portugal
+2018,Julie Laurent,Clavier mecanique,4,89.0,2024-02-04,Suisse
+1308,Omar Saidi,Cle USB 64Go,3,12.9,2024-01-08,Italie
+1786,Paul Girard,Clavier mecanique,,89.0,2024-04-28,France
+1858,Sarah Klein,Lampe de bureau,4,24.9,2024-01-29,Espagne
+1113,Julie Laurent,Ecran 24 pouces,2,159.0,2024-01-07,France
+1909,Yassine Toure,Casque audio,2,49.9,2024-02-05,Allemagne
+1832,Paul Girard,Support ordinateur portable,5,29.9,2024-05-03,France
+1445,Fatima Ziani,Souris sans fil,5,19.9,2024-06-03,Roumanie
+1242,Hugo Lefevre,Support ordinateur portable,2,29.9,2024-02-29,Suisse
+1311,Sofia Rossi,Souris sans fil,1,19.9,2024-01-24,Portugal
+1961,Mehdi Cherif,Casque audio,1,49.9,2024-06-13,Italie
+1111,Omar Saidi,Clavier mecanique,3,89.0,2024-05-11,Tunisie
+1571,Chloe Martin,Enceinte bluetooth,5,44.9,2024-06-15,Roumanie
+1485,Elena Popescu,Casque audio,,49.9,2024-03-21,Espagne
+1965,Laura Moreau,Tapis de souris,4,9.9,2024-03-01,Belgique
+1980,Camille Roux,Chaise de bureau,2,129.0,2024-06-09,Italie
+1693,Julie Laurent,Souris sans fil,3,19.9,2024-03-04,Espagne
+1594,Nadia Amrani,Disque dur externe 1To,1,69.9,2024-06-16,France
+1640,Chloe Martin,Lampe de bureau,5,24.9,2024-06-26,Espagne
+1450,Hugo Lefevre,Ecran 24 pouces,4,159.0,2024-03-17,Suisse
+1837,Karim Haddad,Tapis de souris,,9.9,2024-05-20,Suisse
+1327,Sofia Rossi,Chaise de bureau,5,129.0,2024-04-19,Tunisie
+1732,Léa Fontaine,Tapis de souris,4,9.9,2024-06-28,Espagne
+1307,Mehdi Cherif,Disque dur externe 1To,5,69.9,2024-01-07,Tunisie
+1935,Yassine Toure,Clavier mecanique,5,89.0,2024-06-07,Belgique
+1811,Léa Fontaine,Clavier mecanique,5,89.0,2024-04-03,Belgique
+1937,Mehdi Cherif,Ecran 24 pouces,3,159.0,2024-05-13,Allemagne
+1616,Léa Fontaine,Webcam HD,1,34.5,2024-02-03,Belgique
+1928,Chloe Martin,Disque dur externe 1To,3,69.9,2024-05-16,Tunisie
+1133,Hugo Lefevre,Ecran 24 pouces,3,159.0,2024-04-21,Suisse
+1086,Fatima Ziani,Casque audio,3,49.9,2024-04-03,France
+1029,Nicolas Faure,Casque audio,1,49.9,2024-06-23,Portugal
+1770,Emma Garnier,Cle USB 64Go,3,12.9,2024-03-22,Suisse
+1984,Mehdi Cherif,Disque dur externe 1To,5,69.9,2024-01-07,Tunisie
+1705,Emma Garnier,Souris sans fil,3,19.9,2024-02-10,Maroc
+1021,Elena Popescu,Support ordinateur portable,3,29.9,2024-02-24,Suisse
+1820,Julie Laurent,Disque dur externe 1To,,69.9,2024-01-27,Suisse
+1323,Lucas Bernard,Casque audio,4,49.9,2024-04-20,Italie
+1744,Antoine Petit,Cle USB 64Go,5,12.9,2024-06-09,Belgique
+2008,Amina Benali,Enceinte bluetooth,5,44.9,2024-02-14,Maroc
+1131,Hugo Lefevre,Casque audio,3,49.9,2024-03-17,Espagne
+1943,Laura Moreau,Ecran 24 pouces,4,159.0,2024-03-16,Maroc
+1999,Léa Fontaine,Tapis de souris,4,9.9,2024-06-28,Espagne
+1023,Fatima Ziani,Ecran 24 pouces,5,159.0,2024-05-17,Maroc
+1421,Fatima Ziani,Lampe de bureau,3,24.9,2024-04-11,Roumanie
+1166,Sofia Rossi,Webcam HD,2,34.5,2024-04-13,Allemagne
+1698,Sarah Klein,Casque audio,1,49.9,2024-04-27,Roumanie
+1522,Camille Roux,Webcam HD,2,34.5,2024-04-13,Portugal
+1491,Mehdi Cherif,Enceinte bluetooth,2,44.9,2024-03-04,Maroc
+1543,Fatima Ziani,Cle USB 64Go,2,12.9,2024-01-01,France
+1822,Paul Girard,Souris sans fil,1,19.9,2024-06-20,Roumanie
+1669,Thomas Muller,Chaise de bureau,2,129.0,2024-05-10,Espagne
+1425,Elena Popescu,Support ordinateur portable,3,29.9,2024-06-26,Suisse
+1537,Karim Haddad,Tapis de souris,3,9.9,2024-06-28,Belgique
+1751,Emma Garnier,Cle USB 64Go,4,12.9,2024-02-27,Roumanie
+1371,Julie Laurent,Webcam HD,4,34.5,2024-02-19,Roumanie
+1162,Antoine Petit,Support ordinateur portable,3,29.9,2024-05-22,France
+1907,Sarah Klein,Support ordinateur portable,1,29.9,2024-04-30,Allemagne
+1154,Hugo Lefevre,Clavier mecanique,4,89.0,2024-04-02,Suisse
+1696,Laura Moreau,Clavier mecanique,4,89.0,2024-05-11,Maroc
+1626,Julie Laurent,Cle USB 64Go,4,12.9,2024-06-01,Tunisie
+1764,Karim Haddad,Souris sans fil,3,19.9,2024-01-24,France
+1621,Chloe Martin,Clavier mecanique,5,89.0,2024-03-03,Tunisie
+1236,Léa Fontaine,Disque dur externe 1To,1,69.9,2024-04-23,Italie
+1590,Thomas Muller,Clavier mecanique,1,89.0,2024-05-14,Italie
+1451,Sofia Rossi,Cle USB 64Go,1,12.9,2024-02-10,Suisse
+1143,Léa Fontaine,Casque audio,2,49.9,2024-02-21,France
+1598,Sarah Klein,Clavier mecanique,5,89.0,2024-01-11,Allemagne
+1749,Marie Dubois,Ecran 24 pouces,1,159.0,2024-04-30,Roumanie
+1494,Amina Benali,Lampe de bureau,3,24.9,2024-03-14,Belgique
+1656,Thomas Muller,Lampe de bureau,2,24.9,2024-03-25,Portugal
+1354,Karim Haddad,Disque dur externe 1To,3,69.9,2024-01-17,Roumanie
+1362,Marie Dubois,Chaise de bureau,3,129.0,2024-02-16,Allemagne
+1416,Amina Benali,Lampe de bureau,2,24.9,2024-01-08,Italie
+1529,Sofia Rossi,Support ordinateur portable,1,29.9,2024-01-16,Portugal
+1602,Elena Popescu,Support ordinateur portable,2,29.9,2024-04-11,Belgique
+1556,David Cohen,Souris sans fil,4,19.9,2024-05-22,Suisse
+1767,Ines Bouzid,Souris sans fil,4,19.9,2024-01-20,Tunisie
+1815,Thomas Muller,Cle USB 64Go,5,12.9,2024-06-26,Tunisie
+1080,Ines Bouzid,Enceinte bluetooth,3,44.9,2024-01-14,Belgique
+1604,Chloe Martin,Disque dur externe 1To,5,69.9,2024-03-25,Espagne
+1388,Karim Haddad,Ecran 24 pouces,4,159.0,2024-06-12,Tunisie
+1386,Fatima Ziani,Lampe de bureau,5,24.9,2024-05-15,Espagne
+1179,Thomas Muller,Casque audio,3,49.9,2024-05-02,Belgique
+1628,Marie Dubois,Tapis de souris,3,9.9,2024-06-07,Espagne
+1281,Amina Benali,Ecran 24 pouces,5,159.0,2024-03-23,France
+1863,Hugo Lefevre,Casque audio,2,49.9,2024-03-11,Espagne
+1106,Omar Saidi,Cle USB 64Go,2,12.9,2024-06-06,Tunisie
+1332,Ines Bouzid,Clavier mecanique,4,89.0,2024-03-20,Roumanie
+1827,Chloe Martin,Chaise de bureau,5,129.0,2024-04-06,Belgique
+1048,Fatima Ziani,Cle USB 64Go,5,12.9,2024-05-27,Suisse
+1466,,Casque audio,5,49.9,2024-05-23,Allemagne
+1481,Antoine Petit,Disque dur externe 1To,5,69.9,2024-05-27,Allemagne
+1783,Elena Popescu,Tapis de souris,3,9.9,2024-06-24,Belgique
+1847,Nicolas Faure,Tapis de souris,5,9.9,2024-02-28,Portugal
+1531,Thomas Muller,Chaise de bureau,5,129.0,2024-04-23,Belgique
+1212,Fatima Ziani,Webcam HD,,34.5,2024-06-27,Suisse
+1044,Nicolas Faure,Ecran 24 pouces,5,159.0,2024-02-26,France
+1240,Omar Saidi,Souris sans fil,2,19.9,2024-02-14,Belgique
+1379,Amina Benali,Casque audio,4,49.9,2024-01-14,Espagne
+1897,Nadia Amrani,Webcam HD,4,34.5,2024-04-13,Espagne
+1745,Hugo Lefevre,Enceinte bluetooth,5,44.9,2024-04-02,France
+1238,Karim Haddad,Webcam HD,3,34.5,2024-04-05,Espagne
+1500,Mehdi Cherif,Cle USB 64Go,5,12.9,2024-03-02,Allemagne
+1225,Sarah Klein,Tapis de souris,2,9.9,2024-04-15,France
+1901,Thomas Muller,Disque dur externe 1To,5,69.9,2024-02-16,Maroc
+1746,Hugo Lefevre,Support ordinateur portable,2,29.9,2024-04-04,Italie
+1496,Amina Benali,Souris sans fil,3,19.9,2024-01-11,Maroc
+1981,Ines Bouzid,Clavier mecanique,4,89.0,2024-05-15,Maroc
+1584,Sofia Rossi,Cle USB 64Go,2,12.9,2024-01-03,Allemagne
+1652,Ines Bouzid,Enceinte bluetooth,3,44.9,2024-05-01,Belgique
+1184,Julie Laurent,Lampe de bureau,4,24.9,2024-04-25,Suisse
+1859,Fatima Ziani,Souris sans fil,5,19.9,2024-05-30,Tunisie
+1781,Julie Laurent,Clavier mecanique,4,89.0,2024-01-27,Italie
+1625,Nadia Amrani,Enceinte bluetooth,1,44.9,2024-04-02,Maroc
+1869,Nadia Amrani,Cle USB 64Go,4,12.9,2024-03-23,Maroc
+1170,Antoine Petit,Ecran 24 pouces,1,159.0,2024-02-19,Roumanie
+1245,Camille Roux,Chaise de bureau,5,129.0,2024-03-17,Espagne
+1011,Chloe Martin,Clavier mecanique,5,89.0,2024-03-16,Tunisie
+1739,Karim Haddad,Webcam HD,2,34.5,2024-01-31,France
+1373,,Tapis de souris,5,9.9,2024-05-15,Espagne
+1407,David Cohen,Enceinte bluetooth,4,44.9,2024-03-27,Italie
+1093,Nadia Amrani,Ecran 24 pouces,2,159.0,2024-01-07,Allemagne
+1523,Emma Garnier,Webcam HD,1,34.5,2024-06-12,Maroc
+1514,Emma Garnier,Souris sans fil,1,19.9,2024-03-27,Maroc
+1476,Mehdi Cherif,Cle USB 64Go,3,12.9,2024-05-31,Roumanie
+1639,Sofia Rossi,Enceinte bluetooth,5,44.9,2024-05-02,Tunisie
+1676,Ines Bouzid,Disque dur externe 1To,4,69.9,2024-04-14,Suisse
+1229,,Clavier mecanique,5,89.0,2024-04-26,France
+1402,Karim Haddad,Webcam HD,2,34.5,2024-01-12,Allemagne
+1375,Karim Haddad,Disque dur externe 1To,4,69.9,2024-04-05,Portugal
+1153,Sofia Rossi,Lampe de bureau,3,24.9,2024-01-04,Espagne
+1484,Omar Saidi,Ecran 24 pouces,1,159.0,2024-05-26,Belgique
+1553,Mehdi Cherif,Disque dur externe 1To,3,69.9,2024-03-01,Maroc
+1857,Antoine Petit,Lampe de bureau,4,24.9,2024-01-04,Tunisie
+1267,Lucas Bernard,Ecran 24 pouces,5,159.0,2024-02-04,Espagne
+1879,Hugo Lefevre,Support ordinateur portable,4,29.9,2024-02-15,Suisse
+1038,Léa Fontaine,Lampe de bureau,2,24.9,2024-02-02,Suisse
+1218,Julie Laurent,Enceinte bluetooth,5,44.9,2024-02-07,Espagne
+1605,Léa Fontaine,Cle USB 64Go,2,12.9,2024-06-25,Belgique
+1918,Léa Fontaine,Lampe de bureau,2,24.9,2024-01-05,France
+1593,Chloe Martin,Enceinte bluetooth,5,44.9,2024-03-03,Allemagne
+1596,Hugo Lefevre,Casque audio,1,49.9,2024-06-28,Italie
+1888,Yassine Toure,Tapis de souris,3,9.9,2024-04-27,Maroc
+1520,Nadia Amrani,Support ordinateur portable,5,29.9,2024-01-03,Maroc
+1020,Karim Haddad,Chaise de bureau,4,129.0,2024-03-09,Belgique
+1078,Fatima Ziani,Webcam HD,3,34.5,2024-06-03,Allemagne
+1079,Emma Garnier,Chaise de bureau,2,129.0,2024-06-24,Maroc
+1270,Hugo Lefevre,Support ordinateur portable,4,29.9,2024-03-12,France
+2006,Nicolas Faure,Casque audio,4,49.9,2024-05-31,Tunisie
+1552,Julie Laurent,Cle USB 64Go,5,12.9,2024-03-22,Tunisie
+1144,Mehdi Cherif,Souris sans fil,2,19.9,2024-02-02,Suisse
+1288,Yassine Toure,Disque dur externe 1To,1,69.9,2024-05-05,Suisse
+1084,Lucas Bernard,Clavier mecanique,2,89.0,2024-05-19,France
+1734,Fatima Ziani,Webcam HD,,34.5,2024-03-20,Belgique
+1180,Sofia Rossi,Tapis de souris,4,9.9,2024-01-19,Tunisie
+1112,Paul Girard,Clavier mecanique,2,89.0,2024-06-21,Maroc
+1565,Chloe Martin,Disque dur externe 1To,5,69.9,2024-06-03,France
+1670,Yassine Toure,Support ordinateur portable,2,29.9,2024-05-27,Espagne
+1826,David Cohen,Tapis de souris,2,9.9,2024-04-15,Suisse
+1971,Hugo Lefevre,Cle USB 64Go,4,12.9,2024-04-04,Portugal
+1810,Karim Haddad,Casque audio,2,49.9,2024-05-30,Italie
+1474,Camille Roux,Souris sans fil,5,19.9,2024-05-11,Italie
+2015,Camille Roux,Cle USB 64Go,4,12.9,2024-03-22,Belgique
+1773,Thomas Muller,Enceinte bluetooth,4,44.9,2024-03-21,Espagne
+1138,Fatima Ziani,Enceinte bluetooth,2,44.9,2024-01-13,Maroc
+1369,Amina Benali,Disque dur externe 1To,2,69.9,2024-04-23,Tunisie
+1284,Léa Fontaine,Chaise de bureau,5,129.0,2024-05-31,Belgique
+1447,Laura Moreau,Support ordinateur portable,3,29.9,2024-06-15,Allemagne
+1689,Amina Benali,Lampe de bureau,3,24.9,2024-06-01,Portugal
+1253,Laura Moreau,Clavier mecanique,1,89.0,2024-03-20,Suisse
+1941,Lucas Bernard,Support ordinateur portable,4,29.9,2024-02-08,Belgique
+1005,Marie Dubois,Lampe de bureau,2,24.9,2024-06-15,Portugal
+1173,Léa Fontaine,Lampe de bureau,5,24.9,2024-03-13,Belgique
+1900,Laura Moreau,Enceinte bluetooth,3,44.9,2024-05-09,Maroc
+1755,Sofia Rossi,Enceinte bluetooth,3,44.9,2024-03-20,Roumanie
+1374,Thomas Muller,Ecran 24 pouces,5,159.0,2024-02-05,Maroc
+1683,Léa Fontaine,Cle USB 64Go,4,12.9,2024-05-19,Allemagne
+1580,David Cohen,Chaise de bureau,2,129.0,2024-02-05,Portugal
+1157,Camille Roux,Tapis de souris,5,9.9,2024-03-09,Roumanie
+1894,Antoine Petit,Webcam HD,3,34.5,2024-02-18,Italie
+1314,Mehdi Cherif,Clavier mecanique,1,89.0,2024-02-09,Italie
+1688,Fatima Ziani,Ecran 24 pouces,,159.0,2024-01-16,Tunisie
+1337,Thomas Muller,Support ordinateur portable,2,29.9,2024-06-16,Belgique
+1759,Léa Fontaine,Ecran 24 pouces,5,159.0,2024-03-03,Italie
+1498,David Cohen,Enceinte bluetooth,2,44.9,2024-02-21,Portugal
+1893,Hugo Lefevre,Clavier mecanique,3,89.0,2024-03-11,Roumanie
+1686,Lucas Bernard,Ecran 24 pouces,2,159.0,2024-05-30,Roumanie
+1072,Sarah Klein,Clavier mecanique,1,89.0,2024-05-17,Allemagne
+1635,,Disque dur externe 1To,5,69.9,2024-01-07,Suisse
+1292,Ines Bouzid,Webcam HD,4,34.5,2024-05-09,Tunisie
+1103,Omar Saidi,Clavier mecanique,3,89.0,2024-05-09,Maroc
+1241,Mehdi Cherif,Tapis de souris,5,9.9,2024-06-23,Allemagne
+1132,Yassine Toure,Lampe de bureau,5,24.9,2024-06-03,Allemagne
+1366,Léa Fontaine,Support ordinateur portable,2,29.9,2024-06-01,Espagne
+1933,Nadia Amrani,Tapis de souris,1,9.9,2024-06-18,Portugal
+1874,Fatima Ziani,Lampe de bureau,5,24.9,2024-01-08,Italie
+1595,Sofia Rossi,Tapis de souris,4,9.9,2024-04-06,Portugal
+1203,Yassine Toure,Disque dur externe 1To,4,69.9,2024-01-24,Suisse
+1101,Nicolas Faure,Disque dur externe 1To,2,69.9,2024-04-03,Espagne
+1982,Ines Bouzid,Souris sans fil,4,19.9,2024-01-20,Tunisie
+1069,Antoine Petit,Ecran 24 pouces,3,159.0,2024-03-02,Maroc
+1298,Sofia Rossi,Clavier mecanique,1,89.0,2024-01-24,Espagne
+1741,Amina Benali,Lampe de bureau,5,24.9,2024-03-07,Italie
+1948,David Cohen,Clavier mecanique,3,89.0,2024-03-28,Italie
+1661,Elena Popescu,Webcam HD,1,34.5,2024-05-27,Belgique
+1473,Fatima Ziani,Cle USB 64Go,3,12.9,2024-05-01,Portugal
+1563,Paul Girard,Disque dur externe 1To,1,69.9,2024-04-25,Roumanie
+1987,Nicolas Faure,Tapis de souris,,9.9,2024-05-22,Portugal
+1581,Hugo Lefevre,Souris sans fil,5,19.9,2024-06-13,France
+1186,Mehdi Cherif,Casque audio,5,49.9,2024-01-26,Allemagne
+1836,Omar Saidi,Webcam HD,3,34.5,2024-03-01,Belgique
+1913,Marie Dubois,Enceinte bluetooth,3,44.9,2024-02-23,Italie
+1259,Fatima Ziani,Ecran 24 pouces,4,159.0,2024-05-22,Roumanie
+1632,Nadia Amrani,Cle USB 64Go,4,12.9,2024-05-27,Allemagne
+1852,Fatima Ziani,Clavier mecanique,4,89.0,2024-02-14,Italie
+1878,Laura Moreau,Clavier mecanique,1,89.0,2024-03-02,Roumanie
+1895,Ines Bouzid,Ecran 24 pouces,1,159.0,2024-06-02,Espagne
+1146,Emma Garnier,Webcam HD,3,34.5,2024-02-12,Tunisie
+1525,Hugo Lefevre,Souris sans fil,4,19.9,2024-06-04,Roumanie
+1662,Nicolas Faure,Souris sans fil,3,19.9,2024-03-24,Allemagne
+1423,David Cohen,Souris sans fil,4,19.9,2024-05-12,Espagne
+1217,Emma Garnier,Webcam HD,4,34.5,2024-05-03,Suisse
+1353,Chloe Martin,Tapis de souris,3,9.9,2024-06-22,Tunisie
+1881,Antoine Petit,Cle USB 64Go,1,12.9,2024-03-13,France
+1313,Thomas Muller,Chaise de bureau,3,129.0,2024-03-24,Tunisie
+1088,Amina Benali,Lampe de bureau,4,24.9,2024-06-07,Italie
+1561,Nicolas Faure,Tapis de souris,,9.9,2024-05-22,Portugal
+1785,Sofia Rossi,Ecran 24 pouces,4,159.0,2024-02-02,Belgique
+1404,Nicolas Faure,Enceinte bluetooth,3,44.9,2024-01-10,Allemagne
+1611,Thomas Muller,Disque dur externe 1To,5,69.9,2024-06-18,Espagne
+1873,Thomas Muller,Clavier mecanique,3,89.0,2024-05-09,Espagne
+1891,Ines Bouzid,Disque dur externe 1To,3,69.9,2024-05-23,Tunisie
+1043,Julie Laurent,Clavier mecanique,3,89.0,2024-01-06,Tunisie
+1127,Julie Laurent,Tapis de souris,2,9.9,2024-06-29,Allemagne
+1145,Omar Saidi,Clavier mecanique,5,89.0,2024-02-25,Suisse
+1569,Julie Laurent,Cle USB 64Go,5,12.9,2024-06-29,Allemagne
+1567,Elena Popescu,Enceinte bluetooth,2,44.9,2024-03-26,Maroc
+1012,Amina Benali,Support ordinateur portable,2,29.9,2024-06-29,Belgique
+1383,Karim Haddad,Webcam HD,,34.5,2024-06-27,Italie
+1923,Ines Bouzid,Chaise de bureau,4,129.0,2024-06-24,Italie
+1694,Hugo Lefevre,Souris sans fil,5,19.9,2024-06-10,Maroc
+1306,Sarah Klein,Ecran 24 pouces,4,159.0,2024-05-23,Tunisie
+1148,Lucas Bernard,Support ordinateur portable,1,29.9,2024-03-20,Tunisie
+1650,Nadia Amrani,Tapis de souris,1,9.9,2024-01-30,Italie
+1976,Omar Saidi,Casque audio,1,49.9,2024-06-13,Espagne
+1559,Chloe Martin,Souris sans fil,5,19.9,2024-05-01,Allemagne
+1401,Laura Moreau,Souris sans fil,2,19.9,2024-01-17,Suisse
+1140,Paul Girard,Tapis de souris,3,9.9,2024-04-17,Maroc
+1865,Karim Haddad,Tapis de souris,,9.9,2024-06-25,Allemagne
+1797,Antoine Petit,Souris sans fil,1,19.9,2024-03-22,Tunisie
+1161,Hugo Lefevre,Ecran 24 pouces,3,159.0,2024-03-07,Roumanie
+1486,Fatima Ziani,Tapis de souris,2,9.9,2024-04-15,Portugal
+1032,Ines Bouzid,Souris sans fil,5,19.9,2024-01-28,Maroc
+1677,Yassine Toure,Cle USB 64Go,4,12.9,2024-05-05,Italie
+1405,Nadia Amrani,Chaise de bureau,1,129.0,2024-06-16,Roumanie
+1824,Emma Garnier,Clavier mecanique,3,89.0,2024-03-06,Belgique
+1449,Hugo Lefevre,Disque dur externe 1To,5,69.9,2024-03-15,Maroc
+1289,Sofia Rossi,Clavier mecanique,3,89.0,2024-06-04,Italie
+1089,Julie Laurent,Souris sans fil,2,19.9,2024-04-15,France
+1622,Ines Bouzid,Souris sans fil,4,19.9,2024-02-13,Italie
+1876,Camille Roux,Casque audio,3,49.9,2024-06-29,Allemagne
+1778,Emma Garnier,Ecran 24 pouces,,159.0,2024-04-11,Portugal
+1297,Omar Saidi,Webcam HD,3,34.5,2024-02-09,Suisse
+1109,Laura Moreau,Chaise de bureau,4,129.0,2024-04-23,Suisse
+1515,Sarah Klein,Disque dur externe 1To,2,69.9,2024-02-14,Tunisie
+1871,Elena Popescu,Enceinte bluetooth,2,44.9,2024-04-14,Suisse
+1870,David Cohen,Tapis de souris,5,9.9,2024-06-14,Belgique
+1718,Yassine Toure,Support ordinateur portable,4,29.9,2024-02-25,Belgique
+1047,Antoine Petit,Disque dur externe 1To,4,69.9,2024-02-24,Portugal
+1600,Karim Haddad,Clavier mecanique,3,89.0,2024-05-19,Tunisie
+1065,Thomas Muller,Clavier mecanique,5,89.0,2024-01-18,Allemagne
+1843,Chloe Martin,Souris sans fil,3,19.9,2024-04-07,Roumanie
+1738,Yassine Toure,Clavier mecanique,4,89.0,2024-06-05,Tunisie
+1657,Yassine Toure,Enceinte bluetooth,2,44.9,2024-04-13,Italie
+1007,Marie Dubois,Souris sans fil,4,19.9,2024-03-28,Maroc
+1548,Elena Popescu,Clavier mecanique,1,89.0,2024-06-01,France
+1122,Nicolas Faure,Enceinte bluetooth,2,44.9,2024-05-01,Suisse
+1690,Thomas Muller,Chaise de bureau,3,129.0,2024-03-15,Tunisie
+1957,Léa Fontaine,Cle USB 64Go,5,12.9,2024-05-24,Allemagne
+1018,Thomas Muller,Enceinte bluetooth,4,44.9,2024-03-10,Portugal
+1324,Fatima Ziani,Tapis de souris,5,9.9,2024-06-29,Allemagne
+1444,Ines Bouzid,Disque dur externe 1To,2,69.9,2024-05-31,Tunisie
+1415,Laura Moreau,Casque audio,1,49.9,2024-06-20,Espagne
+1646,Ines Bouzid,Cle USB 64Go,5,12.9,2024-05-22,Tunisie
+1462,Sarah Klein,Chaise de bureau,1,129.0,2024-01-13,Maroc
+1398,Léa Fontaine,Support ordinateur portable,3,29.9,2024-02-04,France
+1418,Sofia Rossi,Ecran 24 pouces,3,159.0,2024-04-02,Espagne
+1265,Emma Garnier,Webcam HD,4,34.5,2024-01-30,Italie
+1234,Mehdi Cherif,Clavier mecanique,2,89.0,2024-06-10,Maroc
+1589,Nadia Amrani,Casque audio,5,49.9,2024-06-27,Espagne
+1073,Ines Bouzid,Webcam HD,2,34.5,2024-03-30,Belgique
+1572,Nadia Amrani,Webcam HD,3,34.5,2024-05-11,Suisse
+1936,Nadia Amrani,Clavier mecanique,1,89.0,2024-05-07,Allemagne
+1183,Nicolas Faure,Tapis de souris,5,9.9,2024-06-01,Tunisie
+1939,Karim Haddad,Lampe de bureau,4,24.9,2024-02-23,Suisse
+1076,Marie Dubois,Disque dur externe 1To,5,69.9,2024-03-17,Belgique
+1090,Thomas Muller,Cle USB 64Go,3,12.9,2024-04-15,Allemagne
+1039,Nicolas Faure,Souris sans fil,3,19.9,2024-05-15,Tunisie
+1848,Karim Haddad,Tapis de souris,5,9.9,2024-04-17,Portugal
+1735,Ines Bouzid,Ecran 24 pouces,2,159.0,2024-05-17,Roumanie
+1471,Léa Fontaine,Souris sans fil,2,19.9,2024-06-03,Portugal
+1025,Amina Benali,Ecran 24 pouces,2,159.0,2024-05-10,Suisse
+1885,Léa Fontaine,Disque dur externe 1To,1,69.9,2024-05-01,Italie
+1703,Laura Moreau,Enceinte bluetooth,1,44.9,2024-02-01,Italie
+1765,Julie Laurent,Lampe de bureau,4,24.9,2024-06-28,Roumanie
+1074,Julie Laurent,Chaise de bureau,3,129.0,2024-02-10,Suisse
+1959,Lucas Bernard,Tapis de souris,2,9.9,2024-05-03,Roumanie
+1446,Sarah Klein,Casque audio,1,49.9,2024-01-21,France
+1760,Marie Dubois,Tapis de souris,1,9.9,2024-02-29,Portugal
+1720,Amina Benali,Tapis de souris,3,9.9,2024-02-05,Allemagne
+1798,Julie Laurent,Casque audio,3,49.9,2024-01-15,Suisse
+1211,Léa Fontaine,Casque audio,2,49.9,2024-03-09,Portugal
+1107,Nadia Amrani,Tapis de souris,5,9.9,2024-01-01,Maroc
+1435,Léa Fontaine,Tapis de souris,5,9.9,2024-01-19,Italie
+1942,Léa Fontaine,Lampe de bureau,1,24.9,2024-01-26,Maroc
+1851,Sarah Klein,Lampe de bureau,5,24.9,2024-06-22,Tunisie
+1645,Lucas Bernard,Casque audio,1,49.9,2024-03-07,Allemagne
+1991,Sofia Rossi,Enceinte bluetooth,3,44.9,2024-03-20,Roumanie
+1216,Laura Moreau,Souris sans fil,4,19.9,2024-03-15,Portugal
+1068,Omar Saidi,Support ordinateur portable,5,29.9,2024-05-13,Roumanie
+1642,Mehdi Cherif,Disque dur externe 1To,1,69.9,2024-01-28,Allemagne
+1008,Fatima Ziani,Ecran 24 pouces,3,159.0,2024-01-27,Belgique
+2004,Amina Benali,Lampe de bureau,3,24.9,2024-06-01,Portugal
+1551,Léa Fontaine,Casque audio,2,49.9,2024-05-08,Maroc
+1792,Nicolas Faure,Enceinte bluetooth,1,44.9,2024-01-23,Maroc
+1172,Elena Popescu,Ecran 24 pouces,4,159.0,2024-03-11,Tunisie
+1099,Ines Bouzid,Clavier mecanique,4,89.0,2024-05-27,Allemagne
+1085,Amina Benali,Support ordinateur portable,5,29.9,2024-02-07,Espagne
+1812,Amina Benali,Cle USB 64Go,4,12.9,2024-05-30,Belgique
+1825,David Cohen,Casque audio,1,49.9,2024-04-08,Suisse
+1198,Sofia Rossi,Support ordinateur portable,1,29.9,2024-04-20,Roumanie
+1668,Paul Girard,Clavier mecanique,2,89.0,2024-03-19,Belgique
+1304,Fatima Ziani,Disque dur externe 1To,4,69.9,2024-02-27,Belgique
+1045,Sofia Rossi,Cle USB 64Go,1,12.9,2024-02-28,Belgique
+1499,Antoine Petit,Lampe de bureau,3,24.9,2024-02-05,Belgique
+1833,Yassine Toure,Disque dur externe 1To,2,69.9,2024-06-04,Espagne
+1521,,Chaise de bureau,2,129.0,2024-01-16,Belgique
+1904,Julie Laurent,Chaise de bureau,2,129.0,2024-03-19,Espagne
+1384,Léa Fontaine,Cle USB 64Go,4,12.9,2024-04-24,Tunisie
+1789,Elena Popescu,Souris sans fil,3,19.9,2024-03-12,Suisse
+1530,Ines Bouzid,Ecran 24 pouces,5,159.0,2024-05-17,Italie
+1995,Hugo Lefevre,Chaise de bureau,3,129.0,2024-05-21,Portugal
+1290,Sofia Rossi,Souris sans fil,3,19.9,2024-06-08,Tunisie
+1742,Amina Benali,Souris sans fil,3,19.9,2024-01-31,France
+1554,Fatima Ziani,Disque dur externe 1To,5,69.9,2024-02-26,Espagne
+1263,Hugo Lefevre,Casque audio,5,49.9,2024-05-23,Roumanie
+1396,Laura Moreau,Tapis de souris,3,9.9,2024-03-05,France
+1117,,Clavier mecanique,4,89.0,2024-02-26,Italie
+1953,Thomas Muller,Support ordinateur portable,4,29.9,2024-04-01,Tunisie
+1946,Lucas Bernard,Casque audio,1,49.9,2024-02-05,Italie
+1329,Chloe Martin,Casque audio,3,49.9,2024-02-13,Tunisie
+1699,Sofia Rossi,Lampe de bureau,4,24.9,2024-02-25,Espagne
+1962,Ines Bouzid,Enceinte bluetooth,4,44.9,2024-02-12,Belgique
+1250,Sarah Klein,Disque dur externe 1To,1,69.9,2024-06-04,Suisse
+1637,Yassine Toure,Disque dur externe 1To,4,69.9,2024-02-05,Maroc
+1629,Paul Girard,Enceinte bluetooth,3,44.9,2024-04-20,Tunisie
+1658,Thomas Muller,Disque dur externe 1To,4,69.9,2024-04-11,France
+1247,Chloe Martin,Enceinte bluetooth,1,44.9,2024-03-01,Espagne
+1457,Karim Haddad,Webcam HD,4,34.5,2024-06-06,Espagne
+1355,Lucas Bernard,Lampe de bureau,4,24.9,2024-03-13,Maroc
+1685,Camille Roux,Webcam HD,3,34.5,2024-01-23,Suisse
+1118,Emma Garnier,Lampe de bureau,4,24.9,2024-01-13,Portugal
+1010,Antoine Petit,Casque audio,4,49.9,2024-05-17,Belgique
+1665,Mehdi Cherif,Tapis de souris,5,9.9,2024-01-30,Roumanie
+1844,Thomas Muller,Enceinte bluetooth,1,44.9,2024-03-08,Suisse
+1958,Omar Saidi,Chaise de bureau,5,129.0,2024-05-13,Tunisie
+1487,Léa Fontaine,Support ordinateur portable,4,29.9,2024-01-16,Italie
+1544,Nadia Amrani,Enceinte bluetooth,5,44.9,2024-04-18,Portugal
+1634,Lucas Bernard,Support ordinateur portable,2,29.9,2024-05-31,Portugal
+1771,Antoine Petit,Ecran 24 pouces,1,159.0,2024-02-21,Italie
+1224,Chloe Martin,Enceinte bluetooth,3,44.9,2024-02-18,Allemagne
+1301,Omar Saidi,Clavier mecanique,4,89.0,2024-03-31,Espagne
+1370,Nadia Amrani,Cle USB 64Go,4,12.9,2024-02-29,Portugal
+1849,Omar Saidi,Enceinte bluetooth,5,44.9,2024-03-01,Suisse
+1340,Laura Moreau,Disque dur externe 1To,,69.9,2024-03-23,Roumanie
+1680,Thomas Muller,Enceinte bluetooth,5,44.9,2024-05-06,Portugal
+1219,Elena Popescu,Support ordinateur portable,5,29.9,2024-02-04,Belgique
+1227,Chloe Martin,Disque dur externe 1To,2,69.9,2024-05-06,France
+1358,Laura Moreau,Cle USB 64Go,4,12.9,2024-02-03,Tunisie
+1095,Amina Benali,Disque dur externe 1To,5,69.9,2024-04-12,Portugal
+1414,David Cohen,Chaise de bureau,5,129.0,2024-04-21,Maroc
+1550,Chloe Martin,Enceinte bluetooth,2,44.9,2024-05-18,Allemagne
+1557,Karim Haddad,Chaise de bureau,4,129.0,2024-05-14,Roumanie
+1426,Elena Popescu,Clavier mecanique,2,89.0,2024-01-19,Suisse
+1164,Hugo Lefevre,Lampe de bureau,2,24.9,2024-06-25,Suisse
+1518,Hugo Lefevre,Chaise de bureau,2,129.0,2024-01-02,Maroc
+1806,Nadia Amrani,Souris sans fil,4,19.9,2024-01-10,Belgique
+1070,Chloe Martin,Souris sans fil,3,19.9,2024-04-27,Roumanie
+1534,Ines Bouzid,Tapis de souris,4,9.9,2024-05-24,France
+1189,Thomas Muller,Casque audio,4,49.9,2024-04-25,Tunisie
+1226,Paul Girard,Cle USB 64Go,4,12.9,2024-06-29,Espagne
+1539,Nadia Amrani,Tapis de souris,2,9.9,2024-02-04,Espagne
+1326,David Cohen,Casque audio,4,49.9,2024-01-05,Suisse
+1725,Julie Laurent,Enceinte bluetooth,4,44.9,2024-01-29,Allemagne
+1803,Paul Girard,Cle USB 64Go,3,12.9,2024-05-31,France
+1075,Nicolas Faure,Cle USB 64Go,3,12.9,2024-06-05,Portugal
+1367,Fatima Ziani,Souris sans fil,2,19.9,2024-06-26,Tunisie
+1564,Sofia Rossi,Lampe de bureau,2,24.9,2024-01-14,Maroc
+1587,Marie Dubois,Casque audio,5,49.9,2024-05-21,Espagne
+1809,Elena Popescu,Souris sans fil,3,19.9,2024-02-15,Roumanie
+1503,Lucas Bernard,Disque dur externe 1To,2,69.9,2024-01-02,Portugal
+1309,Antoine Petit,Cle USB 64Go,3,12.9,2024-03-27,Roumanie
+1678,Sofia Rossi,Support ordinateur portable,1,29.9,2024-02-26,Maroc
+1864,Fatima Ziani,Support ordinateur portable,5,29.9,2024-06-23,Espagne
+1967,Hugo Lefevre,Enceinte bluetooth,3,44.9,2024-01-31,Suisse
+1641,Nicolas Faure,Casque audio,3,49.9,2024-06-28,Portugal
+1793,Chloe Martin,Souris sans fil,4,19.9,2024-02-21,Portugal
+1053,Elena Popescu,Ecran 24 pouces,5,159.0,2024-04-24,Italie
+1612,Sofia Rossi,Support ordinateur portable,3,29.9,2024-03-04,Belgique
+1331,Lucas Bernard,Ecran 24 pouces,4,159.0,2024-05-30,Espagne
+1158,Julie Laurent,Clavier mecanique,3,89.0,2024-04-25,Allemagne
+1041,Emma Garnier,Webcam HD,4,34.5,2024-06-20,Roumanie
+1159,Léa Fontaine,Enceinte bluetooth,5,44.9,2024-06-05,Espagne
+1924,Paul Girard,Enceinte bluetooth,3,44.9,2024-02-18,Italie
+1478,Nadia Amrani,Enceinte bluetooth,1,44.9,2024-04-04,Roumanie
+1339,Léa Fontaine,Support ordinateur portable,4,29.9,2024-06-23,Tunisie
+1006,Yassine Toure,Ecran 24 pouces,4,159.0,2024-05-30,Maroc
+1262,Sarah Klein,Tapis de souris,3,9.9,2024-01-28,Allemagne
+1867,Marie Dubois,Chaise de bureau,3,129.0,2024-03-20,Maroc
+1599,Elena Popescu,Cle USB 64Go,5,12.9,2024-05-01,Maroc
+1985,Fatima Ziani,Support ordinateur portable,5,29.9,2024-06-23,Espagne
+1134,Marie Dubois,Tapis de souris,3,9.9,2024-06-20,Espagne
+1271,Emma Garnier,Chaise de bureau,2,129.0,2024-04-23,Suisse
+1570,Chloe Martin,Ecran 24 pouces,5,159.0,2024-03-23,Maroc
+1286,David Cohen,Disque dur externe 1To,5,69.9,2024-03-18,Suisse
+1439,Ines Bouzid,Casque audio,1,49.9,2024-05-12,Italie
+1042,Camille Roux,Lampe de bureau,4,24.9,2024-01-31,Allemagne
+1387,Lucas Bernard,Webcam HD,2,34.5,2024-03-18,Belgique
+1123,Antoine Petit,Ecran 24 pouces,3,159.0,2024-05-13,Suisse
+1527,Omar Saidi,Ecran 24 pouces,2,159.0,2024-06-23,Tunisie
+1753,Sarah Klein,Chaise de bureau,1,129.0,2024-05-08,France
+1178,Nadia Amrani,Enceinte bluetooth,4,44.9,2024-04-22,Roumanie
+1192,Antoine Petit,Disque dur externe 1To,5,69.9,2024-06-18,Allemagne
+1077,Fatima Ziani,Webcam HD,1,34.5,2024-01-28,Portugal
+1983,Hugo Lefevre,Souris sans fil,4,19.9,2024-06-04,Roumanie
+1182,Sarah Klein,Webcam HD,1,34.5,2024-03-04,Belgique
+1460,Hugo Lefevre,Webcam HD,4,34.5,2024-01-06,Belgique
+1302,David Cohen,Casque audio,3,49.9,2024-06-02,Maroc
+1199,Mehdi Cherif,Webcam HD,1,34.5,2024-01-24,Allemagne
+1743,Paul Girard,Tapis de souris,3,9.9,2024-05-14,Belgique
+1795,Emma Garnier,Chaise de bureau,4,129.0,2024-05-19,Suisse
+1202,Laura Moreau,Enceinte bluetooth,3,44.9,2024-02-16,Tunisie
+1618,Ines Bouzid,Tapis de souris,1,9.9,2024-01-07,Belgique
+1757,Elena Popescu,Webcam HD,5,34.5,2024-03-18,Tunisie
+1560,Julie Laurent,Webcam HD,2,34.5,2024-04-28,France
+1603,Nadia Amrani,Souris sans fil,5,19.9,2024-03-02,Tunisie
+1774,Lucas Bernard,Lampe de bureau,3,24.9,2024-02-23,Suisse
+1377,Sofia Rossi,Souris sans fil,3,19.9,2024-04-25,Portugal
+1664,Ines Bouzid,Disque dur externe 1To,3,69.9,2024-06-01,Espagne
+1727,Marie Dubois,Chaise de bureau,3,129.0,2024-02-03,Espagne
+1722,Mehdi Cherif,Support ordinateur portable,5,29.9,2024-03-13,France
+1649,Fatima Ziani,Chaise de bureau,,129.0,2024-05-03,Belgique
+1231,Sofia Rossi,Enceinte bluetooth,3,44.9,2024-03-27,Tunisie
+1850,,Clavier mecanique,4,89.0,2024-01-09,Portugal
+1454,Chloe Martin,Souris sans fil,3,19.9,2024-05-11,Portugal
+1892,Mehdi Cherif,Webcam HD,3,34.5,2024-06-24,Belgique
+1882,Chloe Martin,Casque audio,2,49.9,2024-05-26,Allemagne
+1800,Lucas Bernard,Ecran 24 pouces,2,159.0,2024-03-09,Portugal
+1890,Mehdi Cherif,Tapis de souris,5,9.9,2024-01-27,France
+1636,Emma Garnier,Ecran 24 pouces,4,159.0,2024-03-15,Belgique
+1208,Lucas Bernard,Tapis de souris,5,9.9,2024-01-01,Portugal
+1258,David Cohen,Chaise de bureau,1,129.0,2024-04-29,Belgique
+1762,Léa Fontaine,Disque dur externe 1To,4,69.9,2024-03-19,Belgique
+1998,Chloe Martin,Lampe de bureau,5,24.9,2024-06-26,Espagne
+1056,,Lampe de bureau,1,24.9,2024-01-24,Allemagne
+1566,Sofia Rossi,Ecran 24 pouces,5,159.0,2024-06-20,Portugal
+1321,Mehdi Cherif,Casque audio,1,49.9,2024-02-22,Maroc
+1702,Hugo Lefevre,Chaise de bureau,1,129.0,2024-01-12,Belgique
+1808,Ines Bouzid,Enceinte bluetooth,1,44.9,2024-03-25,Tunisie
+1427,Thomas Muller,Cle USB 64Go,4,12.9,2024-01-23,Roumanie
+1397,Amina Benali,Clavier mecanique,3,89.0,2024-03-02,Belgique
+1994,Chloe Martin,Enceinte bluetooth,5,44.9,2024-06-25,Portugal
+1049,Julie Laurent,Enceinte bluetooth,4,44.9,2024-02-18,Belgique
+1681,Ines Bouzid,Clavier mecanique,5,89.0,2024-01-30,Maroc
+1710,Sofia Rossi,Souris sans fil,5,19.9,2024-02-27,Portugal
+1295,Yassine Toure,Chaise de bureau,4,129.0,2024-04-12,Espagne
+1713,Julie Laurent,Tapis de souris,1,9.9,2024-01-27,Belgique
+1818,David Cohen,Casque audio,5,49.9,2024-04-10,Tunisie
+1816,Amina Benali,Ecran 24 pouces,5,159.0,2024-02-14,Espagne
+1977,Amina Benali,Ecran 24 pouces,1,159.0,2024-06-15,France
+1524,Amina Benali,Support ordinateur portable,2,29.9,2024-02-26,Italie
+1244,Camille Roux,Webcam HD,5,34.5,2024-02-10,Belgique
+1399,Amina Benali,Lampe de bureau,3,24.9,2024-06-13,Italie
+1575,Julie Laurent,Cle USB 64Go,2,12.9,2024-01-05,Maroc
+1663,Camille Roux,Clavier mecanique,3,89.0,2024-06-20,Suisse
+1761,Amina Benali,Disque dur externe 1To,1,69.9,2024-03-26,France
+1230,David Cohen,Souris sans fil,4,19.9,2024-06-16,Italie
+1886,Laura Moreau,Souris sans fil,5,19.9,2024-01-03,Allemagne
+2016,Lucas Bernard,Ecran 24 pouces,4,159.0,2024-05-30,Espagne
+1758,Julie Laurent,Enceinte bluetooth,3,44.9,2024-05-31,Suisse
+1692,Karim Haddad,Webcam HD,2,34.5,2024-06-28,Italie
+1889,Elena Popescu,Enceinte bluetooth,3,44.9,2024-06-22,Portugal
+1631,Hugo Lefevre,Chaise de bureau,2,129.0,2024-04-11,Roumanie
+1105,Nicolas Faure,Souris sans fil,2,19.9,2024-04-17,Espagne
+1464,Marie Dubois,Clavier mecanique,,89.0,2024-02-04,Maroc
+1834,Thomas Muller,Casque audio,1,49.9,2024-03-25,Allemagne
+1368,Thomas Muller,Cle USB 64Go,4,12.9,2024-01-12,Espagne
+1034,Amina Benali,Souris sans fil,5,19.9,2024-05-15,France
+1555,Nadia Amrani,Webcam HD,1,34.5,2024-05-22,Tunisie
+1772,Léa Fontaine,Support ordinateur portable,1,29.9,2024-02-09,Belgique
+1209,Camille Roux,Tapis de souris,1,9.9,2024-02-18,Portugal
+1303,Amina Benali,Clavier mecanique,5,89.0,2024-05-09,Allemagne
+1804,Emma Garnier,Cle USB 64Go,3,12.9,2024-05-25,Tunisie
+1708,Laura Moreau,Webcam HD,2,34.5,2024-04-19,Belgique
+1064,Ines Bouzid,Souris sans fil,1,19.9,2024-05-10,Belgique
+1860,Léa Fontaine,Clavier mecanique,1,89.0,2024-05-24,Belgique
+1150,Sarah Klein,Cle USB 64Go,2,12.9,2024-01-27,Maroc
+1257,Antoine Petit,Souris sans fil,3,19.9,2024-05-03,Maroc
+1700,Elena Popescu,Enceinte bluetooth,3,44.9,2024-03-23,Maroc
+1294,David Cohen,Ecran 24 pouces,4,159.0,2024-04-25,Allemagne
+1165,Laura Moreau,Cle USB 64Go,4,12.9,2024-04-24,France
+1805,Fatima Ziani,Support ordinateur portable,2,29.9,2024-05-06,Portugal
+1769,Julie Laurent,Webcam HD,3,34.5,2024-03-21,Espagne
+1274,Antoine Petit,Ecran 24 pouces,1,159.0,2024-04-26,Belgique
+1205,Thomas Muller,Chaise de bureau,4,129.0,2024-06-26,Suisse
+1058,Chloe Martin,Casque audio,2,49.9,2024-04-07,France
+1687,Emma Garnier,Support ordinateur portable,4,29.9,2024-02-12,Tunisie
+1055,Sofia Rossi,Enceinte bluetooth,5,44.9,2024-01-26,France
+1149,Omar Saidi,Tapis de souris,4,9.9,2024-02-20,Belgique
+1391,Emma Garnier,Souris sans fil,3,19.9,2024-04-19,France
+1026,Sofia Rossi,Casque audio,1,49.9,2024-02-09,Italie
+1110,Omar Saidi,Ecran 24 pouces,5,159.0,2024-05-01,Italie
+1536,Antoine Petit,Casque audio,2,49.9,2024-05-28,Belgique
+1014,Julie Laurent,Clavier mecanique,4,89.0,2024-03-12,Suisse
+1828,Hugo Lefevre,Support ordinateur portable,2,29.9,2024-02-11,Suisse
+1433,Fatima Ziani,Support ordinateur portable,1,29.9,2024-01-17,Maroc
+1868,Hugo Lefevre,Cle USB 64Go,1,12.9,2024-02-28,Italie
+1899,Paul Girard,Cle USB 64Go,2,12.9,2024-06-24,Portugal
+1293,Yassine Toure,Clavier mecanique,1,89.0,2024-06-16,Portugal
+1547,Omar Saidi,Tapis de souris,5,9.9,2024-01-05,Allemagne
+1862,Chloe Martin,Disque dur externe 1To,4,69.9,2024-05-26,Tunisie
+1916,Hugo Lefevre,Tapis de souris,1,9.9,2024-01-10,Portugal
+1766,Camille Roux,Cle USB 64Go,1,12.9,2024-05-28,Belgique
+1691,Antoine Petit,Lampe de bureau,1,24.9,2024-02-04,Espagne
+1428,Omar Saidi,Chaise de bureau,1,129.0,2024-05-20,Portugal
+1728,Sarah Klein,Tapis de souris,3,9.9,2024-05-19,Italie
+1684,Yassine Toure,Clavier mecanique,2,89.0,2024-03-17,France
+1966,Camille Roux,Enceinte bluetooth,5,44.9,2024-04-24,Belgique
+1585,Ines Bouzid,Enceinte bluetooth,3,44.9,2024-01-16,Tunisie
+1597,Sofia Rossi,Enceinte bluetooth,4,44.9,2024-06-14,Roumanie
+1492,Nicolas Faure,Webcam HD,2,34.5,2024-03-17,Maroc
+1576,,Support ordinateur portable,5,29.9,2024-04-16,Maroc
+1361,Sofia Rossi,Disque dur externe 1To,4,69.9,2024-05-10,Roumanie
+1780,Marie Dubois,Tapis de souris,4,9.9,2024-05-22,Portugal
