@@ -83,7 +83,3 @@ Exécuter (▶). Puis clic droit sur la base → **Refresh** pour voir apparaît
 - Deux commandes peuvent avoir un `id_commande` différent tout en étant un doublon de contenu → grouper sur les champs métier, pas sur l'identifiant.
 - Dans l'éditeur d'agrégation, chaque étape ne doit contenir que le **corps** de l'opérateur (ou juste sa valeur pour `$out`) : Navicat ajoute déjà la clé de l'opérateur autour.
 
-## Pour aller plus loin
-
-- Automatiser l'import avec un **Batch Job** Navicat (planification).
-- Construire un tableau de bord depuis `ventes_propres` avec l'onglet **Chart/BI** de Navicat.
